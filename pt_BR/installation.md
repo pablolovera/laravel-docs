@@ -43,9 +43,9 @@ Uma vez instalado, um simples comando `laravel new` criará uma nova instalaçã
 
 #### Instalação pelo Composer Create-Project
 
-Você também pode instalar o Laravel usando o comando `composer create-project` no seu terminal:
+Alternativamente, você também pode instalar o Laravel usando o comando `composer create-project` no seu terminal:
 
-	composer create-project laravel/laravel --prefer-dist
+	composer create-project laravel/laravel blog "5.1.*"
 
 <a name="configuration"></a>
 ## Configuração
