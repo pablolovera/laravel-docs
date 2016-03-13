@@ -335,3 +335,4 @@ Em uma rota ou controlador, use o método `downloadInvoice` para gerar o PDF de 
         ]);
     });
 
+
