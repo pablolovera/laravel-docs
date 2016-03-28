@@ -2,7 +2,7 @@
 
 - [Introdução](#introduction)
 - [Assinaturas](#subscriptions)
-    - [Criadno Assinaturas](#creating-subscriptions)
+    - [Criando Assinaturas](#creating-subscriptions)
     - [Verificando Status da Assinatura](#checking-subscription-status)
     - [Alterando Entre Planos de Assinaturas](#changing-plans)
     - [Quantidade da Assinatura](#subscription-quantity)
@@ -303,7 +303,7 @@ Se o pagamento for bem sucedido, o valor total será retornado.
 <a name="invoices"></a>
 ## Faturas
 
-É possível lisar as faturas do usuário através do método `invoices`:
+É possível listar as faturas do usuário através do método `invoices`:
 
     $invoices = $user->invoices();
 
